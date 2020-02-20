@@ -21,3 +21,10 @@ Code::Blocks с русским интерфейсом и проверкой ру
 ![screenshot](screenshot4.png)
 
 ![screenshot](screenshot5.png)
+
+```
+-finput-charset=CP1251 -fexec-charset=CP866
+
+```
+
+![screenshot](screenshot6.png)
