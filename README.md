@@ -16,6 +16,8 @@ Code::Blocks с русским интерфейсом и проверкой ру
 
 ![screenshot](screenshot2.png)
 
+![screenshot](screenshot7.png)
+
 ![screenshot](screenshot3.png)
 
 ![screenshot](screenshot4.png)
