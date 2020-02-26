@@ -35,7 +35,7 @@ Code::Blocks с русским интерфейсом и проверкой ру
 
 [Пример программы на С++ в Code::Blocks с использованием wxWidgets](https://github.com/tsnsoft/wxwidgets_demo)
 
-**_Для этого не забудьте распаковать папку "wxWidgets" в папку "D:\CODEBLOCKS" для поддержки виджетов:_**
+**_Для для поддержки виджетов не забудьте распаковать папку "wxWidgets" в папку "D:\CODEBLOCKS":_**
 
 ![screenshot](screenshot8.png)
 
