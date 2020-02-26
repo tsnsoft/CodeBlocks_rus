@@ -30,3 +30,7 @@ Code::Blocks с русским интерфейсом и проверкой ру
 ```
 
 ![screenshot](screenshot6.png)
+
+---
+
+[Пример программы на С++ в Code::Blocks с использованием wxWidgets](https://github.com/tsnsoft/wxwidgets_demo)
