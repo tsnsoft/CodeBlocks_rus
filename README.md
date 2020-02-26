@@ -32,9 +32,9 @@ Code::Blocks с русским интерфейсом и проверкой ру
 ![screenshot](screenshot6.png)
 
 ---
-![screenshot](screenshot7.png)
+
 [Пример программы на С++ в Code::Blocks с использованием wxWidgets](https://github.com/tsnsoft/wxwidgets_demo)
 
 Для этого нужно распаковать папку "wxWidgets" в папку "D:\CODEBLOCKS":
 
-![screenshot](screenshot7.png)
+![screenshot](screenshot8.png)
