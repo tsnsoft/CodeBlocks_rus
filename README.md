@@ -39,6 +39,6 @@ Code::Blocks с русским интерфейсом и проверкой ру
 
 ![screenshot](screenshot8.png)
 
-[Полная сборка wxWidgets (x64) с поддержкой отладки тут](https://github.com/tsnsoft/wxWidgets_full)
+[Полная сборка wxWidgets (x64) с поддержкой отладки](https://github.com/tsnsoft/wxWidgets_full)
 
 ---
