@@ -4,7 +4,7 @@ Code::Blocks с русским интерфейсом и проверкой ру
 
 ![screenshot](screenshot.png)
 
-**Данная сборка протестирована при распаковке папки Code::Blocks в корень диска "D"**
+**Данная сборка протестирована при распаковке папки Code::Blocks в корень диска "C"**
 
 ---
 
@@ -35,10 +35,3 @@ Code::Blocks с русским интерфейсом и проверкой ру
 
 [Пример программы на С++ в Code::Blocks с использованием wxWidgets](https://github.com/tsnsoft/wxwidgets_demo)
 
-**_Для поддержки виджетов не забудьте распаковать папку "wxWidgets" в папку "D:\CODEBLOCKS":_**
-
-![screenshot](screenshot8.png)
-
-[Полная сборка wxWidgets (x64) с поддержкой отладки](https://github.com/tsnsoft/wxWidgets_full)
-
----
